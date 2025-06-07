@@ -1,5 +1,3 @@
-
-
 # Rai WhatsApp AI Bot
 
 A WhatsApp bot powered by **Baileys** + **Google Gemini API**, built in **Node.js**.
