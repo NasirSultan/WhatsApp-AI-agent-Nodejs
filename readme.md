@@ -1,6 +1,4 @@
-Sure! Here's the same **README.md** text, without any emojis — clean and professional:
 
----
 
 # Rai WhatsApp AI Bot
 
